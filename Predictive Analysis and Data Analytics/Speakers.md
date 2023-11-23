@@ -1,7 +1,7 @@
 # Session Topic : Predictive Analysis and Data Analysis
 
 ## Speakers :
-
+<img src="https://github.com/GDSCxAWS-UoL/Events/assets/150796895/1baf1ac5-a462-4667-b662-f6ac96ef7aa6" height = 300>
  <h3>Dr. Diksha Malhotra </h3> 
  
 <ul><li> Ph.D. In NLP, Generative AI, XAI and Blockchain</li>
